@@ -33,12 +33,12 @@
 					>
 					<label for="sobrenome">Sobrenome</label>
 				</div>
-				<!--
+				
 				<div class="input-field col s12">
-					<input type="text" name="email" id="email" value="<//?php echo $dados['emailCli']; ?>">
+					<input type="text" name="email" id="email" value="<?php echo $dados['email']; ?>">
 					<label for="email">E-mail</label>
 				</div>
-				-->
+				
 				<div class="input-field col s12">
 					<input type="text" name="idade" id="idade" value="<?php echo $dados['idade']; ?>">
 					<label for="idade">Idade</label>

@@ -17,6 +17,7 @@
 					<th>#</th>
 					<th>Nome</th>
 					<th>Sobrenome</th>
+					<th>E-mail</th>
 					<th>Idade</th>
 				</tr>				
 			</thead>
@@ -37,6 +38,7 @@
 							<td><?php echo $dados['id']; ?></td>
 							<td><?php echo $dados['nome']; ?></td>
 							<td><?php echo $dados['sobrenome']; ?></td>
+							<td><?php echo $dados['email']; ?></td>
 							<td><?php echo $dados['idade']; ?></td>
 
 							<td>
