@@ -6,7 +6,7 @@
 	<div class="row">
 		<div class="col s12 m6 push-m3">
 			
-			<h3 class="light">Novo cliente</h3>
+			<h3 class="light">Novo Pessoa</h3>
 			
 			<form action="php_action/criar_pessoa.php" method="POST">
 				

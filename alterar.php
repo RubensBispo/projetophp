@@ -53,7 +53,6 @@
 		</div>		
 	</div>
 
-
 <?php 
 	
 	//rodapé
